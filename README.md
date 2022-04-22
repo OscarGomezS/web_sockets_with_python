@@ -1,0 +1,1 @@
+Script para analizar los datos que envia el websocket ws://209.126.82.146:8080
